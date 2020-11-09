@@ -1,0 +1,1 @@
+This folder is created to re-do all Holbeton's 0x00. Shell, basics proyect
